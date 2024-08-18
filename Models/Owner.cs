@@ -3,9 +3,9 @@
     public class Owner
     {
         public int id { get; set; }
-        public String  name { get; set; }
+        public string  name { get; set; }
 
-        public String Gym { get; set; }
+        public string Gym { get; set; }
 
     }
 }
